@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Digidit_portfolio/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/Digidit_portfolio/static/js/main.20643939.chunk.js",
-    "main.js.map": "/Digidit_portfolio/static/js/main.20643939.chunk.js.map",
+    "main.js": "/Digidit_portfolio/static/js/main.60ab38c1.chunk.js",
+    "main.js.map": "/Digidit_portfolio/static/js/main.60ab38c1.chunk.js.map",
     "runtime~main.js": "/Digidit_portfolio/static/js/runtime~main.e9cb92c7.js",
     "runtime~main.js.map": "/Digidit_portfolio/static/js/runtime~main.e9cb92c7.js.map",
     "static/js/2.3a6d1155.chunk.js": "/Digidit_portfolio/static/js/2.3a6d1155.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.ba8b7f13.chunk.js": "/Digidit_portfolio/static/js/3.ba8b7f13.chunk.js",
     "static/js/3.ba8b7f13.chunk.js.map": "/Digidit_portfolio/static/js/3.ba8b7f13.chunk.js.map",
     "index.html": "/Digidit_portfolio/index.html",
-    "precache-manifest.dd18d46ac1dd6d29b10d7614fbe62e40.js": "/Digidit_portfolio/precache-manifest.dd18d46ac1dd6d29b10d7614fbe62e40.js",
+    "precache-manifest.4b9511b163788992579b4b15fe790290.js": "/Digidit_portfolio/precache-manifest.4b9511b163788992579b4b15fe790290.js",
     "service-worker.js": "/Digidit_portfolio/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/Digidit_portfolio/static/css/main.5ecd60fb.chunk.css.map"
   }
