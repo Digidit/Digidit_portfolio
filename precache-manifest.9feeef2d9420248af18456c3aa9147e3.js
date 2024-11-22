@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c1c574a01d6fc4bbdc95edf56a616920",
+    "revision": "91de64279cbf63339c2aafa6b94fadaf",
     "url": "/Digidit_portfolio/index.html"
   },
   {
-    "revision": "bfd994b327115d0155d0",
+    "revision": "01c35a7d0b3a29611d4c",
     "url": "/Digidit_portfolio/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Digidit_portfolio/static/js/3.ba8b7f13.chunk.js"
   },
   {
-    "revision": "bfd994b327115d0155d0",
-    "url": "/Digidit_portfolio/static/js/main.356c8234.chunk.js"
+    "revision": "01c35a7d0b3a29611d4c",
+    "url": "/Digidit_portfolio/static/js/main.577856fe.chunk.js"
   },
   {
     "revision": "0be72820bd07b5156c6d",
