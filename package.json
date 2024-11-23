@@ -2,7 +2,7 @@
   "name": "npx",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://www.digidit.in/Digidit_portfolio",
+  "homepage": "https://www.digidit.in/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
